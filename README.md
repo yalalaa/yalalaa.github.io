@@ -1,37 +1,124 @@
-## Welcome to GitHub Pages
+# 前端学习
 
-You can use the [editor on GitHub](https://github.com/yalalaa/yalalaa.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## 一、前端基础
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### **1.数组**
 
-### Markdown
+（还有什么比官网更全的，但是做笔记是为了强化记忆）
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+var array = new Array();
 
-```markdown
-Syntax highlighted code block
+push
 
-# Header 1
-## Header 2
-### Header 3
+pop
 
-- Bulleted
-- List
+unshift
 
-1. Numbered
-2. List
+splice
 
-**Bold** and _Italic_ and `Code` text
+shift
 
-[Link](url) and ![Image](src)
-```
+slice
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+concat
 
-### Jekyll Themes
+slice
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yalalaa/yalalaa.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+reverse
 
-### Support or Contact
+sort
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
+### **2.定时器、延时器**
+
+setTimeout
+
+setInterval
+
+
+
+### **3.页面事件**
+
+onbeforeunload
+
+
+
+## 二、动画
+
+### **1.flash-Animate**
+
+
+
+## 三、**学习**
+
+### 1.java经验之谈
+
+https://www.cnblogs.com/xrq730/p/5260294.html
+
+
+
+### 2.Markdown学习
+
+https://www.runoob.com/markdown/md-tutorial.html
+
+https://support.typora.io/Auto-Numbering/ --Markdown语法，css样式学习
+
+
+
+### 3.样式
+
+
+
+### 4.面试题
+
+#### 4.1 判断数据类型
+
+https://www.cnblogs.com/onepixel/p/5126046.html
+
+#### 4.2 跨域问题
+
+https://segmentfault.com/a/1190000011145364
+
+
+
+## 四、flex布局
+
+http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html
+
+
+
+
+
+## 五、ES6新特性
+
+https://www.jianshu.com/p/ac1787f6c50f
+
+
+
+
+
+## 六、H5和CSS3新特性
+
+https://www.cnblogs.com/ainyi/p/9777841.html
+
+
+
+## 七、Angular7+
+
+https://angular.io/guide/lifecycle-hooks
+
+
+
+## 八、Spring Cloud Gateway
+
+https://www.cnblogs.com/crazymakercircle/p/11704077.html
+
+
+
+## 九、nacos-server
+
+https://blog.csdn.net/qq_32352777/article/details/86558016
+
+
+
