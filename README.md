@@ -158,3 +158,19 @@ maven: https://mvnrepository.com/
 
 can i use
 
+
+
+
+
+## 十四、Android APP 开发
+
+http://www.android-doc.com/guide/components/index.html
+
+https://www.runoob.com/w3cnote/android-app-develop-learning.html
+
+https://www.zhihu.com/question/28606284  学习
+
+http://rnd-think.huawei.com/think-home/home#/tiny3doc
+
+https://gitee.com/oschina/android-app
+
