@@ -80,6 +80,12 @@ https://www.cnblogs.com/onepixel/p/5126046.html
 
 https://segmentfault.com/a/1190000011145364
 
+#### 4.3 前端攻击
+
+XSS 
+
+CSRF
+
 
 
 ## 四、flex布局
@@ -102,6 +108,8 @@ https://www.jianshu.com/p/ac1787f6c50f
 
 https://www.cnblogs.com/ainyi/p/9777841.html
 
+https://ainyi.com/52           https://ainyi.com/
+
 
 
 ## 七、Angular7+
@@ -121,4 +129,32 @@ https://www.cnblogs.com/crazymakercircle/p/11704077.html
 https://blog.csdn.net/qq_32352777/article/details/86558016
 
 
+
+## 十、前端安全
+
+
+
+
+
+## 十一、微服务
+
+https://blog.csdn.net/fly910905/article/details/100023415
+
+
+
+
+
+## 十二、网络
+
+https://zhuanlan.zhihu.com/p/21968527
+
+
+
+
+
+## 十三、官网
+
+maven: https://mvnrepository.com/
+
+can i use
 
